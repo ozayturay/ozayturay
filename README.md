@@ -10,7 +10,7 @@
   - Twitter     : <https://twitter.com/ozayturay>
   - Web Site    : <https://e-turay.com>
   - Hobby Site  : <https://retrodergi.com>
-  - Game Server : <https://retrodergi.com>
+  - Game Server : <https://karizmawow.com>
   
 <!--
 **ozayturay/ozayturay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
